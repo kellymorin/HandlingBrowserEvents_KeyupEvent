@@ -1,0 +1,21 @@
+#mirrorSection{
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+
+#mirror1{
+  border: 1px solid red;
+  display: flex;
+  width: 50%;
+  height: 200px;
+  margin: 10px;
+}
+
+#mirror2{
+  border: 1px solid blue;
+  display: flex;
+  width: 50%;
+  height: 200px;
+  margin: 10px;
+}
